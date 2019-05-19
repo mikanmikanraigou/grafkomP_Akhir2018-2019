@@ -4,6 +4,8 @@ Projek Akhir Kamar Hotel Grafkom A Filkom
 How To Run :
 Replace Lesson4 & Lesson7 pada pada kode Grafkom, debug di x86 dalam visual Studio
 
+Youtube demo video with phone camera :
+https://youtu.be/Puv6b5N6VC
 
 Keterangan
 Lesson 4 berisikan ruangan Hotel Full Textured berserta isinya,
