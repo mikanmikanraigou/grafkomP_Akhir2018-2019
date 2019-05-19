@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(249): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(304): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(373): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(445): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(518): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(679): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(828): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(914): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(1003): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson04\demo.cpp(1076): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lesson04.vcxproj -> C:\Users\Kai Sakura\Desktop\[Galang]\Kode Program\Grafika Komputer dan Visualisasi\vs\Debug\Lesson04.exe
