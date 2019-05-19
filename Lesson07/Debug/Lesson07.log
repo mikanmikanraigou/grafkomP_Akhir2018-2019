@@ -1,0 +1,174 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lesson02.vcxproj, Lesson03.vcxproj, Lesson04.vcxproj, Lesson05.vcxproj, Lesson06.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Demo.cpp
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(172): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(208): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(250): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(308): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(366): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(522): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(649): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(723): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(802): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(863): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1198): error C2084: function 'void Demo::Buildgrass(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(126): note: see previous definition of 'Buildgrass'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1276): error C2084: function 'void Demo::BuildHotelFloor(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(162): note: see previous definition of 'BuildHotelFloor'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1280): error C2065: 'cube_texture2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1309): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1316): error C2065: 'cubeVAO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1317): error C2065: 'cubeVBO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1318): error C2065: 'cubeEBO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1320): error C2065: 'cubeVAO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1322): error C2065: 'cubeVBO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1325): error C2065: 'cubeEBO2': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1353): error C2084: function 'void Demo::BuildCarpet(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(198): note: see previous definition of 'BuildCarpet'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1357): error C2065: 'cube_texture3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1386): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1393): error C2065: 'cubeVAO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1394): error C2065: 'cubeVBO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1395): error C2065: 'cubeEBO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1397): error C2065: 'cubeVAO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1399): error C2065: 'cubeVBO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1402): error C2065: 'cubeEBO3': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1430): error C2084: function 'void Demo::BuildBedFrame1(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(234): note: see previous definition of 'BuildBedFrame1'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1434): error C2065: 'cube_texture4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1469): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1480): error C2065: 'cubeVAO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1481): error C2065: 'cubeVBO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1482): error C2065: 'cubeEBO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1484): error C2065: 'cubeVAO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1486): error C2065: 'cubeVBO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1489): error C2065: 'cubeEBO4': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1517): error C2084: function 'void Demo::BuildBedFrame2(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(292): note: see previous definition of 'BuildBedFrame2'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1521): error C2065: 'cube_texture5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1556): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1567): error C2065: 'cubeVAO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1568): error C2065: 'cubeVBO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1569): error C2065: 'cubeEBO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1571): error C2065: 'cubeVAO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1573): error C2065: 'cubeVBO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1576): error C2065: 'cubeEBO5': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1604): error C2084: function 'void Demo::BuildBed(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(350): note: see previous definition of 'BuildBed'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1608): error C2065: 'cube_texture6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1644): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1656): error C2065: 'cubeVAO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1657): error C2065: 'cubeVBO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1658): error C2065: 'cubeEBO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1660): error C2065: 'cubeVAO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1662): error C2065: 'cubeVBO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1665): error C2065: 'cubeEBO6': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1693): error C2084: function 'void Demo::BuildWall(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(409): note: see previous definition of 'BuildWall'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1697): error C2065: 'cube_texture7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1727): error C2059: syntax error: 'constant'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1820): error C2143: syntax error: missing ';' before '}'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1886): error C2065: 'cubeVAO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1886): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1886): error C2373: 'glad_glGenVertexArrays': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3893): note: see declaration of 'glad_glGenVertexArrays'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1886): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1886): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1887): error C2065: 'cubeVBO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1887): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1887): error C2373: 'glad_glGenBuffers': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3311): note: see declaration of 'glad_glGenBuffers'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1887): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1887): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1888): error C2065: 'cubeEBO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1888): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1888): error C2373: 'glad_glGenBuffers': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3311): note: see declaration of 'glad_glGenBuffers'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1888): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1888): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1890): error C2065: 'cubeVAO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1890): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1890): error C2373: 'glad_glBindVertexArray': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3887): note: see declaration of 'glad_glBindVertexArray'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1892): error C2065: 'cubeVBO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1892): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1892): error C2373: 'glad_glBindBuffer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3305): note: see declaration of 'glad_glBindBuffer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1892): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1892): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1893): error C2065: 'vertices': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1893): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1893): error C2373: 'glad_glBufferData': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3317): note: see declaration of 'glad_glBufferData'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1893): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1893): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1895): error C2065: 'cubeEBO7': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1895): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1895): error C2373: 'glad_glBindBuffer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3305): note: see declaration of 'glad_glBindBuffer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1895): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1895): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1896): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1896): error C2373: 'glad_glBufferData': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3317): note: see declaration of 'glad_glBufferData'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1896): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1896): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1899): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1899): error C2373: 'glad_glVertexAttribPointer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3618): note: see declaration of 'glad_glVertexAttribPointer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1899): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1899): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1900): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1900): error C2373: 'glad_glEnableVertexAttribArray': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3384): note: see declaration of 'glad_glEnableVertexAttribArray'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1903): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1903): error C2373: 'glad_glVertexAttribPointer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3618): note: see declaration of 'glad_glVertexAttribPointer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1903): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1903): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1904): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1904): error C2373: 'glad_glEnableVertexAttribArray': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3384): note: see declaration of 'glad_glEnableVertexAttribArray'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1907): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1907): error C2373: 'glad_glVertexAttribPointer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3618): note: see declaration of 'glad_glVertexAttribPointer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1907): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1907): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1908): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1908): error C2373: 'glad_glEnableVertexAttribArray': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3384): note: see declaration of 'glad_glEnableVertexAttribArray'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1911): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1911): error C2373: 'glad_glBindBuffer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3305): note: see declaration of 'glad_glBindBuffer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1911): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1911): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1915): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1915): error C2373: 'glad_glBindVertexArray': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3887): note: see declaration of 'glad_glBindVertexArray'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1918): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1918): error C2373: 'glad_glBindBuffer': redefinition; different type modifiers
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\deps\include\glad\glad.h(3305): note: see declaration of 'glad_glBindBuffer'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1918): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1918): note: The initializer contains too many elements
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1919): error C2059: syntax error: '}'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1919): error C2143: syntax error: missing ';' before '}'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1923): error C2143: syntax error: missing ';' before '{'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(1923): error C2447: '{': missing function header (old-style formal list?)
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2039): error C2084: function 'void Demo::BuildLamp(void)' already has a body
+  c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(694): note: see previous definition of 'BuildLamp'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2043): error C2065: 'cube_texture9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2087): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2105): error C2065: 'cubeVAO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2105): error C2065: 'glad_glGenVertexArrays': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2106): error C2065: 'cubeVBO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2106): error C2065: 'glad_glGenBuffers': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2107): error C2065: 'cubeEBO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2107): error C2065: 'glad_glGenBuffers': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2109): error C2065: 'cubeVAO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2109): error C2065: 'glad_glBindVertexArray': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2111): error C2065: 'cubeVBO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2111): error C2065: 'glad_glBindBuffer': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2112): error C2065: 'glad_glBufferData': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2114): error C2065: 'cubeEBO9': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2114): error C2065: 'glad_glBindBuffer': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2115): error C2065: 'glad_glBufferData': undeclared identifier
+c:\users\kai sakura\desktop\[galang]\kode program\grafika komputer dan visualisasi\vs\lesson07\demo.cpp(2115): fatal error C1003: error count exceeds 100; stopping compilation
